@@ -1,0 +1,3 @@
+void Hello(){
+	printf("aaa");
+}
